@@ -2,3 +2,5 @@ baseURL = "http://music.jerad.xyz"
 languageCode = "en-us"
 title = "Music Site"
 author = "Jerad Acosta"
+
+publishDir = "docs"
