@@ -8,12 +8,17 @@
   </url>
   
   <url>
+    <loc>http://music.jerad.xyz/present/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://music.jerad.xyz/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://music.jerad.xyz/theheights/</loc>
+    <loc>http://music.jerad.xyz/present/theheights/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -27,7 +32,11 @@
   </url>
   
   <url>
-    <loc>http://music.jerad.xyz/djduckenandjerdad/</loc>
+    <loc>http://music.jerad.xyz/past/djduckenandjerdad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/past/</loc>
   </url>
   
   <url>
@@ -35,7 +44,7 @@
   </url>
   
   <url>
-    <loc>http://music.jerad.xyz/thecorrectsadists/</loc>
+    <loc>http://music.jerad.xyz/past/thecorrectsadists/</loc>
   </url>
   
 </urlset>
