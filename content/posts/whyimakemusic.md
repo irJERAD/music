@@ -1,9 +1,9 @@
-+++
-title = "Why do I create?"
-description = "why do I make original music no one will ever hear?"
-date = "2020-08-22"
-author = "Jerad Acosta"
-+++
++++  
+title = "Why do I create?"  
+description = "why do I make original music no one will ever hear?"  
+date = "2020-08-22"  
+author = "Jerad Acosta"  
++++  
 
 ## Introducing the unessential  
 
