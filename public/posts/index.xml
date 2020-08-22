@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Music Site</title>
+    <link>http://music.jerad.xyz/posts/</link>
+    <description>Recent content in Posts on Music Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://music.jerad.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What it is!</title>
+      <link>http://music.jerad.xyz/posts/whatitis/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://music.jerad.xyz/posts/whatitis/</guid>
+      <description>This is a place for past and present musical endeavors of mine. Some of these are one off project based samples, others the culmination of months writing and rehearsing, others still have much definition embeded soul searching.
+~ Jerad Acosta</description>
+    </item>
+    
+  </channel>
+</rss>

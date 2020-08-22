@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://music.jerad.xyz/posts/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/theheights/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/posts/whatitis/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/djduckenandjerdad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://music.jerad.xyz/thecorrectsadists/</loc>
+  </url>
+  
+</urlset>
