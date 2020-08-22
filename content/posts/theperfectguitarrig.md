@@ -1,9 +1,9 @@
 +++
-title: "The Perfect Guitar Rig"  
-description: "as I go through the process of creating my new guitar rig"  
-date: "2020-08-21"
-author: "Jerad Acosta"
-tag: ["guitar","music","how-to","Beebo","Les Paul","Gretsch"]  
+title = "The Perfect Guitar Rig"  
+description = "as I go through the process of creating my new guitar rig"  
+date = "2020-08-21"
+author = "Jerad Acosta"
+tag = ["guitar","music","how-to","Beebo","Les Paul","Gretsch"]  
 +++  
 
 # The Perfect Guitar Rig  
