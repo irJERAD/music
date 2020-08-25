@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasts on Music Site</title>
-    <link>http://music.jerad.xyz/past/</link>
+    <link>/past/</link>
     <description>Recent content in Pasts on Music Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://music.jerad.xyz/past/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/past/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DJ Ducken and Jerdad</title>
-      <link>http://music.jerad.xyz/past/djduckenandjerdad/</link>
+      <link>/past/djduckenandjerdad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/past/djduckenandjerdad/</guid>
+      <guid>/past/djduckenandjerdad/</guid>
       <description>Table of contents  A Painful Past  A Painful Past   Staring:
  Matt Griffin Erik Musil Jerad Acosta  Music by:
  DJ Ducken Jerdad  </description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>The Correct Sadists</title>
-      <link>http://music.jerad.xyz/past/thecorrectsadists/</link>
+      <link>/past/thecorrectsadists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/past/thecorrectsadists/</guid>
+      <guid>/past/thecorrectsadists/</guid>
       <description>The Page  The Correct Sadists Montage The Correct Sadists Rehersal Brad&amp;rsquo;s Bday La Costa  Vacant Sky Eradicate Virus in Your System Suffragette City   Songs In Progress  Crouger Coming Back   Band Mates  The Correct Sadists Montage   The Correct Sadists Rehersal   Brad&amp;rsquo;s Bday La Costa Vacant Sky   Eradicate   Virus in Your System   Suffragette City   Songs In Progress Crouger   Coming Back   Band Mates Vocals - Matthew Krechter Guitar - Jerad Acosta Bass Guitar - Joe Haskins</description>
     </item>
     

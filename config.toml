@@ -1,4 +1,4 @@
-baseURL = "https://music.jerad.xyz/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Music Site"
 author = "Jerad Acosta"

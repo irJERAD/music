@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Band on Music Site</title>
-    <link>http://music.jerad.xyz/</link>
+    <link>/</link>
     <description>Recent content in The Band on Music Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://music.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Heights</title>
-      <link>http://music.jerad.xyz/present/theheights/</link>
+      <link>/present/theheights/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/present/theheights/</guid>
+      <guid>/present/theheights/</guid>
       <description>Current Members  Current Members Guitar - Jerad Acosta
 Guitar - Raul Barajas
 Drums - Jon O
@@ -25,39 +25,39 @@ Vocals - Star</description>
     
     <item>
       <title>What it is!</title>
-      <link>http://music.jerad.xyz/posts/whatitis/</link>
+      <link>/posts/whatitis/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/posts/whatitis/</guid>
+      <guid>/posts/whatitis/</guid>
       <description>This is a place for past and present musical endeavors of mine. Some of these are one off project based samples, others the culmination of months writing and rehearsing, others still have much definition embeded soul searching.
 ~ Jerad Acosta</description>
     </item>
     
     <item>
       <title>Why do I create?</title>
-      <link>http://music.jerad.xyz/posts/whyimakemusic/</link>
+      <link>/posts/whyimakemusic/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/posts/whyimakemusic/</guid>
+      <guid>/posts/whyimakemusic/</guid>
       <description>Introducing the unessential The unnecessary has an interesting place in our lives. Surely we are gluttunous creatures with plenty of excess. Among the hoggish slop of redundance and the encumbering wealth of consumerism is a very specific form of unessential I am calling out here.
 A very refined excess that is cultured by nature; culture in-fact is so bound with it, it is defined by and along with this most uneeded of creations.</description>
     </item>
     
     <item>
       <title>The Perfect Guitar Rig</title>
-      <link>http://music.jerad.xyz/posts/theperfectguitarrig/</link>
+      <link>/posts/theperfectguitarrig/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/posts/theperfectguitarrig/</guid>
+      <guid>/posts/theperfectguitarrig/</guid>
       <description>The Perfect Guitar Rig I have recently decided to build a new guitar rig. This would include effects pedals selected to sculpt my dream tones, a multi-effects pedal for range in areas I had not prioritized or decide later to explore, an amplifier, amplifier models (usually handled by the multi-effects, however, a surge in cheap easy to program audio chip platforms has made amp modeling a very exciting venue of its own), a guitar, and some gear such as a capo, strings, stands and cases.</description>
     </item>
     
     <item>
       <title>DJ Ducken and Jerdad</title>
-      <link>http://music.jerad.xyz/past/djduckenandjerdad/</link>
+      <link>/past/djduckenandjerdad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/past/djduckenandjerdad/</guid>
+      <guid>/past/djduckenandjerdad/</guid>
       <description>Table of contents  A Painful Past  A Painful Past   Staring:
  Matt Griffin Erik Musil Jerad Acosta  Music by:
  DJ Ducken Jerdad  </description>
@@ -65,10 +65,10 @@ A very refined excess that is cultured by nature; culture in-fact is so bound wi
     
     <item>
       <title>The Correct Sadists</title>
-      <link>http://music.jerad.xyz/past/thecorrectsadists/</link>
+      <link>/past/thecorrectsadists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://music.jerad.xyz/past/thecorrectsadists/</guid>
+      <guid>/past/thecorrectsadists/</guid>
       <description>The Page  The Correct Sadists Montage The Correct Sadists Rehersal Brad&amp;rsquo;s Bday La Costa  Vacant Sky Eradicate Virus in Your System Suffragette City   Songs In Progress  Crouger Coming Back   Band Mates  The Correct Sadists Montage   The Correct Sadists Rehersal   Brad&amp;rsquo;s Bday La Costa Vacant Sky   Eradicate   Virus in Your System   Suffragette City   Songs In Progress Crouger   Coming Back   Band Mates Vocals - Matthew Krechter Guitar - Jerad Acosta Bass Guitar - Joe Haskins</description>
     </item>
     
