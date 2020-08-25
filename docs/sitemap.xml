@@ -8,17 +8,12 @@
   </url>
   
   <url>
-    <loc>/present/</loc>
-    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/present/theheights/</loc>
+    <loc>/theheights/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -42,11 +37,15 @@
   </url>
   
   <url>
+    <loc>/djduckenandjerdad/</loc>
+  </url>
+  
+  <url>
     <loc>/past/djduckenandjerdad/</loc>
   </url>
   
   <url>
-    <loc>/past/</loc>
+    <loc>/heatherthefleece/</loc>
   </url>
   
   <url>
@@ -55,6 +54,14 @@
   
   <url>
     <loc>/past/thecorrectsadists/</loc>
+  </url>
+  
+  <url>
+    <loc>/thecorrectsadists/</loc>
+  </url>
+  
+  <url>
+    <loc>/past/</loc>
   </url>
   
 </urlset>
